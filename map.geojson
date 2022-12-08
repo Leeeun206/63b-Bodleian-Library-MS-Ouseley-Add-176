@@ -1,13 +1,13 @@
 {"type":"FeatureCollection", "features":[
   {"type":"Feature","properties":
     {"id":1,
-    "chapter":"Chapter 1:Boleian Library MS. Ouseley Add. 176 Fol.63b,
+    "chapter":"Boleian Library MS. Ouseley Add. 176 Fol.63b",
     "zoom":1,
     "description":"Afrasiyab is the grandson of Tur and son of Pashang and ruler of Turan. (E. Yarshater) Depicted as a tyrant king, he ruled Iran for 12 years and was the provocateur of one of the longest-lasting battles in the Shahnameh between Iran and Turan. Son of Zal and Rudabeh, Rustam is Iran’s national hero. Following his father’s orders, Rustam rescues the 1st king of the Kayanian Dynasty, Kayqubad, and participates in the war of Kayqubad against Afrasiyab. Rustam became the national hero of Iran as he upheld Iran’s integrity against the Turanians. This manuscript scene portrays the climax of the battle between Rustam and Afrasiyab; Rustam successfully as Afrasiyab by the belt and effortlessly lifts him. After what Ferdowsi notes as a \"single-mounted combat,\" Rustam emerges as the victor and seizes Afrasiyab by the belt. (Abu ʾl-Qasim Firdowsi Tusi) Rustam asserts his dominance and power by successfully capturing and dragging Afrasiyab to his saddle. Not only that, but Rustam manages to embarrass and humiliate the tyrant by effortlessly hoisting him as \"if he weighed no more than a mosquito, making his soul worth less than a fistful of dirt.\" (University of Cambridge Museums) Seemingly, Ferdowsi further perpetuates Afrasiyab’s humiliation by detailing his pathetic escape. After a series of coincidences, Afrasiyab could escape death and flee as his belt could not tolerate his weight and broke off. With Afrasiyab escaping death and fleeing, Firdausi notes Rustam’s remorse as he laments his inability to incapacitate Afrasiyab. The Shahnama details how Rustam’s oversight would have lasting ramifications throughout the second half of the Shahnama\""},
     "geometry":{"type":"Point","coordinates":[2528,3001]}},
   {"type":"Feature","properties":
     {"id":2,
-    "chapter":"Chapter 2: Iconography of Rustam",
+    "chapter":"Iconography of Rustam",
     "zoom":3,
     "image":"img/pictorial-st-louis-1832.png",
     "source-credit":"Source: Library of Congress",
@@ -16,7 +16,7 @@
     "geometry":{"type":"Point","coordinates":[3184,3205]}},
   {"type":"Feature","properties":
     {"id":3,
-    "chapter":"Chapter 3: Looking into the armor: The historical and cultural significance the armor details",
+    "chapter":"Looking into the armor: The historical and cultural significance the armor details",
     "zoom":2,
     "image":"img/pictorial-st-louis-water-works.png",
     "source-credit":"Source: StLouis-MO.gov",
@@ -25,7 +25,7 @@
     "geometry":{"type":"Point","coordinates":[862, 2178]}},
   {"type":"Feature","properties":
     {"id":4,
-    "chapter":"Chapter 4: Looking at other manuscripts: The Cambridge Manuscript",
+    "chapter":"Looking at other manuscripts: The Cambridge Manuscript",
     "zoom":2,
     "image":"img/pictorial-st-louis-insane-asylum-03.png",
     "source-credit":"Source: Eric Erickson via Ancestry.com",
@@ -34,7 +34,7 @@
     "geometry":{"type":"Point","coordinates":[2897, 3797]}},
   {"type":"Feature","properties":
     {"id":5,
-    "chapter":"Chapter 5: Looking at other manuscripts: The MET Manuscript",
+    "chapter":"Looking at other manuscripts: The MET Manuscript",
     "zoom":3,
     "image":"img/pictorial-st-louis-cemetery.png",
     "source-credit":"Source: Library of Congress",
@@ -43,7 +43,7 @@
     "geometry":{"type":"Point","coordinates":[1168,868]}},
   {"type":"Feature","properties":
     {"id":6,
-    "chapter":"Chapter 6: Flowers",
+    "chapter":"Looking at other manuscripts: ",
     "zoom":5,
     "image":"img/pictorial-st-louis-key.png",
     "source-credit":"Source: Library of Congress",
